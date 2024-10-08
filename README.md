@@ -1,6 +1,6 @@
 # Longest Common Subsequence (LCS) Calculation
 
-A functional programming example, this script calculates the length of the Longest Common Subsequence (LCS) between two strings. The LCS is the longest subsequence that appears in both strings in the same order, but not necessarily consecutively.
+A dynamic programming example, this script calculates the length of the Longest Common Subsequence (LCS) between two strings. The LCS is the longest subsequence that appears in both strings in the same order, but not necessarily consecutively.
 
 ## Features
 
